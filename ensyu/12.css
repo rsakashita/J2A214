@@ -1,6 +1,6 @@
 @charset "UTF-8";
 a.first {
-    color: "f0c";
+    color: #f0c;
     text-decoration: none;
     background-color: #fff;
     transition: background-color 1s;
